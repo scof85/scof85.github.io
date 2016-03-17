@@ -1,0 +1,3 @@
+
+.icon-hello:before { content: '\48'; } /* 'H' */
+.icon-hello-1:before { content: '\68'; } /* 'h' */

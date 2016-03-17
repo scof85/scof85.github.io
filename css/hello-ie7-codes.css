@@ -1,0 +1,3 @@
+
+.icon-hello { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x48;&nbsp;'); }
+.icon-hello-1 { *zoom: expression( this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#x68;&nbsp;'); }
